@@ -1,6 +1,6 @@
 # Christel van Haren, geschreven op 12-9-2019.
 # Boek opdracht 1 'Personal Information', bladzijde 126.
-# Dit programma laat zien wat mijn naam, adres, telefoonnummer en studie.
+# Dit programma laat zien wat mijn naam, adres, telefoonnummer en studie is.
 naam = "Christel"
 stad = "Bemmel"
 postcode = "6681PP"
